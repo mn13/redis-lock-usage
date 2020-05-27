@@ -1,0 +1,16 @@
+{
+  "name": "redis-dynamic-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "dependencies": {
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
